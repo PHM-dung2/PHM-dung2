@@ -7,7 +7,7 @@
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 사람을 진단하던 손에서, 이제는 사용자 경험을 설계하는 손으로 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 의료 현장에서의 풍부한 협업 경험을 바탕으로 문제 해결 중심의 개발자로 성장 중인 박희만입니다.</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 의료 현장에서의 풍부한 협업 경험을 바탕으로 <br/> 문제 해결 중심의 개발자로 성장 중인 박희만입니다.</li> </div> 
 </div>
 
 <!-- Tech Stack -->
