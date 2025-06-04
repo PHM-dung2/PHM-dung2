@@ -1,7 +1,6 @@
 <!-- 타이틀 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:96FBC4,100:00B4DB&height=180&section=header&text=Welcome%20to%20Heman's%20GitHub&fontSize=40&fontAlignY=30&animation=fadeIn&textColor=0b2545" />
-  <p>📌 백엔드 · 앱 개발 · 커뮤니케이션 플랫폼 구축</p>
 </div>
 
 <br>
