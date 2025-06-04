@@ -31,6 +31,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />&nbsp;
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS S3" />&nbsp;
 </div>
 
 <br>
@@ -61,15 +64,18 @@
 
 <!-- Contact -->
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:pp4992@naver.com">
-    <img
-      src="https://img.shields.io/badge/pp4992@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+<div align="center" style="text-decoration: none;">
+  <a href="mailto:pp4992@naver.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/pp4992@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
-  <a href=https://www.notion.so/13cf14bf0be380e8b863ed6c650635dc> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/13cf14bf0be380e8b863ed6c650635dc"> </a>
-  <a href=mailto:ppo3703@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ppo3703@gmail.com"> </a>
+  <a href="https://www.notion.so/13cf14bf0be380e8b863ed6c650635dc" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  </a>
+  <a href="mailto:ppo3703@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
 </div>
-
+    
 
 
 
