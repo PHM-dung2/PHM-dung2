@@ -1,9 +1,14 @@
 <!-- 타이틀 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:96FBC4,100:00B4DB&height=180&section=header&text=Welcome%20to%20Heman's%20GitHub&fontSize=40&fontAlignY=30&animation=fadeIn&textColor=0b2545" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20Heman's%20github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
 <br>
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 사람을 진단하던 손에서, 이제는 사용자 경험을 설계하는 손으로 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 의료 현장에서의 풍부한 협업 경험을 바탕으로 문제 해결 중심의 개발자로 성장 중인 박희만입니다.</li> </div> 
+</div>
 
 <!-- Tech Stack -->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -61,6 +66,10 @@
     <img
       src="https://img.shields.io/badge/pp4992@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
+  <a href=https://www.notion.so/13cf14bf0be380e8b863ed6c650635dc> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/13cf14bf0be380e8b863ed6c650635dc"> </a>
+  <a href=mailto:ppo3703@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ppo3703@gmail.com"> </a>
 </div>
+
+
 
 
